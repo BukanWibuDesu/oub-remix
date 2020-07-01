@@ -238,7 +238,7 @@ async def kang(args):
         await args.edit(f"`Tercolong!!`\
                         \nUntuk melihat hasil colongan lainnya, bisa klik [disini](t.me/addstickers/{packname})",
                         parse_mode='md')
-        await asyncio.sleep(7.5)                
+        await asyncio.sleep(473)                
         await args.delete()
 
 async def resize_photo(photo):
