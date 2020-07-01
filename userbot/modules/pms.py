@@ -26,10 +26,10 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = (
-    "`Heyy, ini pesan otomatis dari bot milik ༺ＨａｒｉａｄｙＡｚ༻ .\n\n`"
+    "`Heyy, ini pesan otomatis dari bot milik Master saya .\n\n`"
     "`Kamu belum mendapat izin untuk mengirim pesan (PM) .\n\n`"
-    "`Mention @HariadyAz di group dan mintalah izin untuk mengirim pesan (PM).`"
-    "`Tunggu sampai ༺ＨａｒｉａｄｙＡｚ༻ mengizinkan.\n\n`"
+    "`Mention Master saya di group dan mintalah izin untuk mengirim pesan (PM).`"
+    "`Tunggu sampai Master saya mengizinkan.\n\n`"
     "`Jangan mengirim chat lebih 2x atau anda akan diblock secara otomatis oleh bot.\n\n`"
     "`If you send more than two messages, you will get report as spam + block.`")
 # =================================================================
